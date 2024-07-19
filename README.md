@@ -6,4 +6,4 @@ Azure App Service는 웹 애플리케이션을 호스팅하기 위한 Azure의 H
 
 PaaS의 개념과 배포 방식의 특징을 이해하고, Visual Studio Code를 통해 Azure App Service를 사용하여 웹 앱을 배포하는 방법을 소개합니다.
 
-- 발표 자료
+- [발표 자료](https://www.canva.com/design/DAGLUFOoNhU/qSVuc-_LB11dc8eXf_dNeQ/view?utm_content=DAGLUFOoNhU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
