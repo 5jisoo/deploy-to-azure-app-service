@@ -5,8 +5,8 @@ name: Build and deploy ASP.Net Core app to Azure Web App - 20240722-MLSA
 
 on:
   push:
-    branches:
-      - main
+    # branches:
+    #   - main
   workflow_dispatch:
 
 jobs:

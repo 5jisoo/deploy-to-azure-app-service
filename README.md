@@ -4,6 +4,20 @@
 
 Azure App Service는 웹 애플리케이션을 호스팅하기 위한 Azure의 HTTP 기반 PaaS입니다.
 
-PaaS의 개념과 배포 방식의 특징을 이해하고, Visual Studio Code를 통해 Azure App Service를 사용하여 웹 앱을 배포하는 방법을 소개합니다.
+Visual Studio Code를 통해 Azure App Service를 사용하여 웹 앱을 배포하는 방법을 소개합니다.
 
-- [발표 자료](https://www.canva.com/design/DAGLUFOoNhU/qSVuc-_LB11dc8eXf_dNeQ/view?utm_content=DAGLUFOoNhU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## Prerequisites
+
+- [Azure 구독](https://azure.microsoft.com/?wt.mc_id=studentamb_296881)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [(VSC) Azure Tools Extension](https://code.visualstudio.com/docs/azure/extensions)
+
+## Getting Started
+
+[이 문서](./docs/README.md)에서 실습 자료를 확인할 수 있습니다.
+
+## Resources
+
+- [App Service documentation](https://learn.microsoft.com/azure/app-service/?wt.mc_id=studentamb_296881)
+- [Deploy to App Service using GitHub Actions](https://learn.microsoft.com/azure/app-service/deploy-github-actions?tabs=applevel%2Caspnetcore#generate-deployment-credentials&wt.mc_id=studentamb_296881)
